@@ -1,11 +1,10 @@
 # Descrição:
-Criado por Humberto Silva https://github.com/hptsilva/
-O ISAC é um bot para o aplicativo Discord. O bot permite:
-
-* Criar eventos interativos no servidor que podem ser notificados automaticamente;
-* Criar mensagem de boas-vindas;
-* Notificar quando um membro sair do servidor;
-* Moderar membros.
+* Criado por Humberto Silva https://github.com/hptsilva/
+* O ISAC é um bot para o aplicativo Discord. O bot permite:
+  * Criar eventos interativos no servidor que podem ser notificados automaticamente;
+  * Criar mensagem de boas-vindas;
+  * Notificar quando um membro sair do servidor;
+  * Moderar membros.
 
 # Adicione no seu servidor:
 
