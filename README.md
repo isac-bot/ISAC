@@ -4,7 +4,7 @@
   * Criar eventos interativos no servidor que podem ser notificados automaticamente;
   * Criar mensagem de boas-vindas;
   * Notificar quando um membro sair do servidor;
-  * Moderar membros.
+  * Moderar membros;
 
 # Adicione no seu servidor:
 
