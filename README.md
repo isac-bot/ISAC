@@ -8,7 +8,7 @@
 
 # Adicione no seu servidor:
 
-* https://discord.com/oauth2/authorize?client_id=1136689149601124383&permissions=8&integration_type=0&scope=bot
+* Clique [aqui](https://discord.com/oauth2/authorize?client_id=1136689149601124383&permissions=8&integration_type=0&scope=bot) para adicionar o ISAC no servidor.
 
 # Alguns comandos disponíveis:
 
