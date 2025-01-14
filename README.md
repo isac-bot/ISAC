@@ -36,7 +36,8 @@
 
 # Notificações de lives da Twitch:
 
-* (Exemplo de notificação)
-![image](https://github.com/user-attachments/assets/09154be0-05d6-40a1-b230-a87d55fcccdf)
+* (Exemplo de notificação)  
+![image](https://github.com/user-attachments/assets/432f53dc-1057-4ada-b03b-7abe42cf36ce)
+
 
 
