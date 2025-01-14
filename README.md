@@ -33,3 +33,9 @@
 ![image](https://github.com/user-attachments/assets/562e6fed-0456-46da-8b27-2d29449aa11b)
 * (Formulário para criação de eventos)  
 ![image](https://github.com/user-attachments/assets/2b130c89-4ea8-42c0-9350-d6726dd167d2)
+
+# Notificações de lives da Twitch:
+
+* (Exemplo de notificação) 
+![image](https://github.com/user-attachments/assets/ec45044d-c2b6-4c27-85fe-0156e53ca54a)
+
