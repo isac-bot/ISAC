@@ -5,7 +5,7 @@
   * Criar mensagem de boas-vindas;
   * Notificar quando um membro sair do servidor;
   * Moderar membros;
-  * Notificar lives da Twitch (Em fase de testes);
+  * Notificar lives da Twitch;
 
 # Adicione no seu servidor:
 
