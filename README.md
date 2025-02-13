@@ -38,7 +38,7 @@
 
 # Notificações de lives da Twitch:
 
-* Use o painel de configurações (**/twitch**) para adicionar e/ou escolher o canal de notificações.
+* Use o painel de configurações (**/twitch**) para adicionar/excluir streamers e escolher o canal de notificações.
 ![image](https://github.com/user-attachments/assets/f7f8f74b-a06b-4bb6-b163-2353e4eb84e3)
 
 
