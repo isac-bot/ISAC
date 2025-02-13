@@ -23,7 +23,7 @@
 * /tirar_castigo
 
 # Mensagem de boas-vindas e despedidas:
-É possível personalizar as mensagens pelo painel de configurações usando o comando /entrada e /saida.
+É possível personalizar as mensagens pelo painel de configurações usando o comando **/entrada** e **/saida**.
 * Mensagem de boas-vindas:  
 ![image](https://github.com/user-attachments/assets/ca9696fc-22fc-434d-8ce0-fb889306d24f)
 * Mensagem de despedidas:  
