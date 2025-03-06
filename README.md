@@ -31,14 +31,17 @@
 
 # Criação de eventos:
 
-* (Exemplo de evento interativo)  
+* (Exemplo de evento interativo)
+
 ![image](https://github.com/user-attachments/assets/562e6fed-0456-46da-8b27-2d29449aa11b)
-* (Formulário para criação de eventos)  
+* (Formulário para criação de eventos)
+
 ![image](https://github.com/user-attachments/assets/2b130c89-4ea8-42c0-9350-d6726dd167d2)
 
 # Notificações de lives da Twitch:
 
 * Use o painel de configurações (**/twitch**) para adicionar/excluir streamers e escolher o canal de notificações.
+  
 ![image](https://github.com/user-attachments/assets/f7f8f74b-a06b-4bb6-b163-2353e4eb84e3)
 
 
