@@ -24,9 +24,11 @@
 
 # Mensagem de boas-vindas e despedidas:
 É possível personalizar as mensagens pelo painel de configurações usando o comando **/entrada** e **/saida**.
-* Mensagem de boas-vindas:  
+* Mensagem de boas-vindas:
+
 ![image](https://github.com/user-attachments/assets/b4271b24-a4bb-4ae0-800a-e6438aa2008e)
-* Mensagem de despedidas:  
+* Mensagem de despedidas:
+
 ![image](https://github.com/user-attachments/assets/9f324c26-791a-4164-a9ed-80b739cbaf09)
 
 # Criação de eventos:
