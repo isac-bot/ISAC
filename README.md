@@ -45,7 +45,7 @@
 
 > * **/aleatorio {valor}** : Gera um número aleatório de 1 até o valor especificado.
 > * **/almanax {data!}** : Mostre o item a ser ofertado no Santuário do Almanax no jogo Dofus 3.
-> * **/avatar {membro!}** : Veja a foto de perfil do membro o servidor.
+> * **/avatar {membro!}** : Veja a foto de perfil do membro do servidor.
 > * **/aviso** : Crie uma mensagem de aviso que mencionará todos do servidor.
 > * **/banir {membro}** : Bane o membro do servidor.
 > * **/castigar {membro} {tempo}** : Coloque o membro de castigo pelo tempo determinado em segundos.
