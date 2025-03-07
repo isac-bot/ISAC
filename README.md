@@ -75,7 +75,7 @@ O ISAC foi desenvolvido com o compromisso de respeitar a privacidade dos usuári
 
 O ISAC **não** armazena o conteúdo das mensagens enviadas pelos membros do servidor. Isso significa que as conversas, textos ou qualquer outro conteúdo gerado pelos usuários não são coletados, salvos ou compartilhados.
 
-O bot apenas armazena as mensagens que ele mesmo envia, como respostas a comandos ou interações automáticas, para garantir o funcionamento adequado dos serviços oferecidos.
+O bot apenas armazena as mensagens que ele mesmo envia, como respostas a comandos ou interações automáticas, para garantir o funcionamento adequado.
 
 ### Registro de Interações:
 
