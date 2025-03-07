@@ -11,22 +11,14 @@
 
 * Clique [aqui](https://discord.com/oauth2/authorize?client_id=1136689149601124383&permissions=8&integration_type=0&scope=bot) para adicionar o ISAC no seu servidor.
 
-# Alguns comandos disponíveis:
-
-* /avatar
-* /evento
-* /entrada
-* /saida
-* /banir
-* /expulsar
-* /castigar
-* /tirar_castigo
-
 # Mensagem de boas-vindas e despedidas:
+
 É possível personalizar as mensagens pelo painel de configurações usando o comando **/entrada** e **/saida**.
+
 * Mensagem de boas-vindas:
 
 ![image](https://github.com/user-attachments/assets/b4271b24-a4bb-4ae0-800a-e6438aa2008e)
+
 * Mensagem de despedidas:
 
 ![image](https://github.com/user-attachments/assets/9f324c26-791a-4164-a9ed-80b739cbaf09)
@@ -36,6 +28,7 @@
 * (Exemplo de evento interativo):
 
 ![image](https://github.com/user-attachments/assets/562e6fed-0456-46da-8b27-2d29449aa11b)
+
 * (Formulário para criação de eventos):
 
 ![image](https://github.com/user-attachments/assets/2b130c89-4ea8-42c0-9350-d6726dd167d2)
@@ -46,6 +39,30 @@
   
 ![image](https://github.com/user-attachments/assets/f7f8f74b-a06b-4bb6-b163-2353e4eb84e3)
 
+# Comandos:
 
+! = Parâmetro opcional.
 
+>>>
+* /aleatorio {valor} : Gera um número aleatório de 1 até o valor especificado.
+* /almanax {data!} : Mostre o item a ser ofertado no Santuário do Almanax no jogo Dofus 3.
+* /avatar {membro!} : Veja a foto de perfil de um membro do servidor.
+* /aviso : Crie uma mensagem de aviso.
+* /banir {membro}: Bane um membro do servidor.
+* /castigar {membro} {tempo} : Coloque um membro de castigo pelo tempo determinado em segundos.
+* /convite {tempo!} : Crie um convite para o servidor podendo definir o tempo de duração em segundos. Convite de uso único.
+* /entrada : Abre o painel de configurações para notificações de novos membros no servidor.
+* /evento : Crie um evento no servidor.
+* /excluir_convites : Exclui todos os convites ativos no servidor.
+* /expulsar {membro} : Expulse um membro do servidor.
+* /id_canal_texto {canal} : Mostre o ID do canal de texto do servidor.
+* /id_canal_voz {canal} : Mostre o ID do canal de voz do servidor.
+* /id_cargo {cargo} : Mostre o ID do cargo.
+* /id_membro {membro} : Mostre o ID do membro.
+* /ping : Mostre o ping da aplicação.
+* /post : Crie uma postagem.
+* /saida : Abre o painel de configurações para notificações de membros que saíram do servidor.
+* /timezone : Zonas de tempo disponíveis para o comando /evento.
+* /tirar_castigo {membro} : Retira o castigo do membro.
+* /twitch : Abre o painel de configurações para notificações de lives da Twitch.
 
