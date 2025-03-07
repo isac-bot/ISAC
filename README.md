@@ -66,3 +66,25 @@
 > * **/twitch** : Abre o painel de configurações para notificações de lives da Twitch.
 
 **\* Certos comandos exigem permissões específicas (administrador ou outras), que podem ser alteradas nas configurações do servidor.**
+
+# Política de Privacidade
+
+O ISAC foi desenvolvido com o compromisso de respeitar a privacidade dos usuários. Abaixo, explico como são lidados as informações coletadas:
+
+## Armazenamento de Mensagens:
+
+O ISAC **não** armazena o conteúdo das mensagens enviadas pelos membros do servidor. Isso significa que as conversas, textos ou qualquer outro conteúdo gerado pelos usuários não são coletados, salvos ou compartilhados.
+
+O bot apenas armazena as mensagens que ele mesmo envia, como respostas a comandos ou interações automáticas, para garantir o funcionamento adequado dos serviços oferecidos.
+
+## Registro de Interações:
+
+O ISAC pode registrar informações sobre quem utiliza seus comandos ou interage com ele, como IDs de usuário e horários de interação. Esses dados são utilizados exclusivamente para fins de funcionalidade, análise de uso e melhoria do bot.
+
+Esses registros não incluem o conteúdo das mensagens dos usuários e são tratados com total confidencialidade.
+
+## Uso dos Dados:
+
+Os dados coletados são utilizados apenas para o funcionamento do bot e não são compartilhados com terceiros, exceto quando exigido por lei ou para cumprir com obrigações legais.
+
+Ao utilizar o ISAC, você concorda com esta política de privacidade. Caso tenha dúvidas ou precise de mais informações, entre em contato conosco.
