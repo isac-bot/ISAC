@@ -79,7 +79,7 @@ O bot apenas armazena as mensagens que ele mesmo envia, como respostas a comando
 
 ### Registro de Interações:
 
-O ISAC pode registrar informações sobre quem utiliza seus comandos ou interage com ele, como IDs de usuário, ID do servidor e horários de interação. Esses dados são utilizados exclusivamente para fins de funcionalidade, análise de uso e melhoria do bot.
+O ISAC pode registrar informações sobre quem utiliza seus comandos ou interage com ele, como IDs de usuário, IDs do servidor e horários de interação. Esses dados são utilizados exclusivamente para fins de funcionalidade, análise de uso e melhoria do bot.
 
 Esses registros não incluem o conteúdo das mensagens dos usuários e são tratados com total confidencialidade.
 
