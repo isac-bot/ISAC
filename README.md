@@ -41,7 +41,7 @@
 
 # Comandos:
 
- ! = Parâmetro opcional.
+ {parâmetro!} => Parâmetro opcional.
 
 > * **/aleatorio {valor}** : Gera um número aleatório de 1 até o valor especificado.
 > * **/almanax {data!}** : Mostre o item a ser ofertado no Santuário do Almanax no jogo Dofus 3.
@@ -65,3 +65,4 @@
 > * **/tirar_castigo {membro}** : Retira o castigo do membro.
 > * **/twitch** : Abre o painel de configurações para notificações de lives da Twitch.
 
+**OBS:** Certos comandos só podem ser usados por administradores do servidor, no entanto podem ser alterados privilégios nas configurações do servidor.
