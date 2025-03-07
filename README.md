@@ -45,20 +45,20 @@
 
 > * **/aleatorio {valor}** : Gera um número aleatório de 1 até o valor especificado.
 > * **/almanax {data!}** : Mostre o item a ser ofertado no Santuário do Almanax no jogo Dofus 3.
-> * **/avatar {membro!}** : Veja a foto de perfil de um membro do servidor.
+> * **/avatar {membro!}** : Veja a foto de perfil do membro o servidor.
 > * **/aviso** : Crie uma mensagem de aviso que mencionará todos do servidor.
-> * **/banir {membro}** : Bane um membro do servidor.
-> * **/castigar {membro} {tempo}** : Coloque um membro de castigo pelo tempo determinado em segundos.
+> * **/banir {membro}** : Bane o membro do servidor.
+> * **/castigar {membro} {tempo}** : Coloque o membro de castigo pelo tempo determinado em segundos.
 > * **/convite {tempo!}** : Crie um convite para o servidor podendo definir o tempo de duração em segundos. Convite de uso único.
 > * **/entrada** : Abre o painel de configurações para notificações de novos membros no servidor.
 > * **/evento** : Crie um evento no servidor.
 > * **/excluir_convites** : Exclui todos os convites ativos no servidor.
-> * **/expulsar {membro}** : Expulse um membro do servidor.
-> * **/id_canal_texto {canal}** : Mostre o ID do canal de texto do servidor.
-> * **/id_canal_voz {canal}** : Mostre o ID do canal de voz do servidor.
-> * **/id_cargo {cargo}** : Mostre o ID do cargo.
-> * **/id_membro {membro}** : Mostre o ID do membro.
-> * **/ping** : Mostre o ping da aplicação.
+> * **/expulsar {membro}** : Expulse o membro do servidor.
+> * **/id_canal_texto {canal}** : Mostra o ID do canal de texto do servidor.
+> * **/id_canal_voz {canal}** : Mostra o ID do canal de voz do servidor.
+> * **/id_cargo {cargo}** : Mostra o ID do cargo.
+> * **/id_membro {membro}** : Mostra o ID do membro.
+> * **/ping** : Veja o ping da aplicação.
 > * **/post** : Crie uma postagem.
 > * **/saida** : Abre o painel de configurações para notificações de membros que saíram do servidor.
 > * **/timezone** : Zonas de tempo disponíveis para o comando /evento.
