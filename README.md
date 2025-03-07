@@ -87,4 +87,4 @@ Esses registros não incluem o conteúdo das mensagens dos usuários e são trat
 
 Os dados coletados são utilizados apenas para o funcionamento do bot e não são compartilhados com terceiros, exceto quando exigido por lei ou para cumprir com obrigações legais.
 
-Ao utilizar o ISAC, você concorda com esta política de privacidade. Caso tenha dúvidas ou precise de mais informações, entre em contato conosco.
+Ao utilizar o ISAC, você concorda com esta política de privacidade.
