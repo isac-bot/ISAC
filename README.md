@@ -65,4 +65,4 @@
 > * **/tirar_castigo {membro}** : Retira o castigo do membro.
 > * **/twitch** : Abre o painel de configurações para notificações de lives da Twitch.
 
-**Certos comandos só podem ser utilizados por administradores, mas os privilégios podem ser alterados nas configurações do servidor.**
+**Certos comandos exigem permissões específicas (administrador ou outras), que podem ser alteradas nas configurações do servidor.**
