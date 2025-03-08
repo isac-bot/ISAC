@@ -11,18 +11,6 @@
 
 * Clique [aqui](https://discord.com/oauth2/authorize?client_id=1136689149601124383&permissions=8&integration_type=0&scope=bot) para adicionar o ISAC no seu servidor.
 
-# Mensagem de boas-vindas e despedidas:
-
-É possível personalizar as mensagens pelo painel de configurações usando o comando **/entrada** e **/saida**.
-
-* Mensagem de boas-vindas:
-
-![image](https://github.com/user-attachments/assets/b4271b24-a4bb-4ae0-800a-e6438aa2008e)
-
-* Mensagem de despedidas:
-
-![image](https://github.com/user-attachments/assets/9f324c26-791a-4164-a9ed-80b739cbaf09)
-
 # Criação de eventos:
 
 * (Exemplo de evento interativo):
