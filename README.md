@@ -33,6 +33,18 @@
 
 ![image](https://github.com/user-attachments/assets/f7f8f74b-a06b-4bb6-b163-2353e4eb84e3)
 
+### Notificar entrada e saída de membros:
+
+* Mensagem de entrada de membro:
+
+![image](https://github.com/user-attachments/assets/aeda6ec9-c836-4b74-81e1-d0842300dea7)
+
+* Mensagem de saída de membro:
+
+![image](https://github.com/user-attachments/assets/f8410d93-dd61-4746-aa90-6692c9841711)
+
+**\* Ambas as mensagens podem ser alteradas.** 
+
 # Comandos:
 
  {parâmetro!} => Parâmetro opcional.
