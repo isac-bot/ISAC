@@ -14,9 +14,9 @@
 # Criação de eventos:
 
 * (Exemplo de evento interativo):
-<div style="text-align: center">
+
 ![image](https://github.com/user-attachments/assets/562e6fed-0456-46da-8b27-2d29449aa11b)
-</div>div>
+
 * (Formulário para criação de eventos):
 <div style="text-align: center">
 ![image](https://github.com/user-attachments/assets/2b130c89-4ea8-42c0-9350-d6726dd167d2)
