@@ -67,6 +67,42 @@
 
 **\* Certos comandos exigem permissões específicas (administrador ou outras), que podem ser alteradas nas configurações do servidor.**
 
+# Termos de Uso do ISAC
+
+Ao utilizar o ISAC, você concorda com os seguintes termos e condições. Leia-os atentamente antes de interagir com o Bot.
+
+### Funcionalidade do Bot:
+
+O Bot foi desenvolvido com o objetivo de criar eventos interativos no servidor, moderar membros e notificar lives da Twitch.
+
+O Bot não armazena o conteúdo das mensagens enviadas pelos membros do servidor. Isso significa que todas as conversas, textos ou qualquer outro conteúdo gerado pelos usuários não são coletados, salvos ou compartilhados.
+
+### Armazenamento de Dados:
+
+O Bot armazena apenas as mensagens que ele mesmo envia, como respostas a comandos ou interações automáticas, para garantir o funcionamento adequado dos serviços oferecidos.
+
+Além disso, o Bot pode registrar informações sobre quem utiliza seus comandos ou interage com ele, como IDs de usuário, IDs do servidor e horários de interação. Esses dados são utilizados exclusivamente para fins de funcionalidade, análise de uso e melhoria do Bot.
+
+### Responsabilidades do Usuário:
+
+Ao utilizar o Bot, você concorda em não utilizá-lo para atividades ilegais, maliciosas ou que violem as diretrizes da plataforma Discord (ou outra plataforma onde o Bot esteja integrado).
+
+Você é responsável por garantir que o uso do Bot esteja em conformidade com as leis e regulamentos aplicáveis à sua região.
+
+### Limitações de Responsabilidade:
+
+O Bot é fornecido "no estado em que se encontra", sem garantias de funcionamento ininterrupto ou livre de erros.
+
+O desenvolvedor do Bot não se responsabiliza por quaisquer danos diretos, indiretos, incidentais ou consequenciais decorrentes do uso ou da incapacidade de uso do Bot.
+
+### Alterações nos Termos de Uso:
+
+O desenvolvedor do Bot reserva-se o direito de modificar estes Termos de Uso a qualquer momento.
+
+### Encerramento do Uso:
+
+O desenvolvedor do Bot reserva-se o direito de encerrar ou suspender o acesso ao Bot para qualquer usuário ou servidor que viole estes Termos de Uso ou que utilize o Bot de forma inadequada.
+
 # Política de Privacidade
 
 O ISAC foi desenvolvido com o compromisso de respeitar a privacidade dos usuários. Abaixo, explico como são lidados as informações coletadas:
