@@ -67,7 +67,7 @@
 
 **\* Certos comandos exigem permissões específicas (administrador ou outras), que podem ser alteradas nas configurações do servidor.**
 
-# Termos de Uso do ISAC
+# Termos de Uso
 
 Ao utilizar o ISAC, você concorda com os seguintes termos e condições. Leia-os atentamente antes de interagir com o Bot.
 
