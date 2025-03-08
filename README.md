@@ -55,7 +55,7 @@
 
 **\* Certos comandos exigem permissões específicas (administrador ou outras), que podem ser alteradas nas configurações do servidor.**
 
-# Termos de Uso
+# Termos de Uso:
 
 Ao utilizar o ISAC, você concorda com os seguintes termos e condições. Leia-os atentamente antes de interagir com o Bot.
 
@@ -91,7 +91,7 @@ O desenvolvedor do Bot reserva-se o direito de modificar estes Termos de Uso a q
 
 O desenvolvedor do Bot reserva-se o direito de encerrar ou suspender o acesso ao Bot para qualquer usuário ou servidor que viole estes Termos de Uso ou que utilize o Bot de forma inadequada.
 
-# Política de Privacidade
+# Política de Privacidade:
 
 O ISAC foi desenvolvido com o compromisso de respeitar a privacidade dos usuários. Abaixo, explico como são lidados as informações coletadas:
 
