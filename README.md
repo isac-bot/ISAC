@@ -11,19 +11,25 @@
 
 * Clique [aqui](https://discord.com/oauth2/authorize?client_id=1136689149601124383&permissions=8&integration_type=0&scope=bot) para adicionar o ISAC no seu servidor.
 
-# Criação de eventos:
+# O que o ISAC pode fazer:
 
-* (Exemplo de evento interativo):
+### Criação de eventos:
+
+* Exemplo de um evento interativo:
 
 ![image](https://github.com/user-attachments/assets/562e6fed-0456-46da-8b27-2d29449aa11b)
 
-* (Formulário para criação de eventos):
+* Formulário para criação de eventos:
 
 ![image](https://github.com/user-attachments/assets/2b130c89-4ea8-42c0-9350-d6726dd167d2)
 
-# Notificações de lives da Twitch:
+### Notificações de lives da Twitch:
 
-* Use o painel de configurações (**/twitch**) para adicionar/excluir streamers e escolher o canal de notificações.
+* Painel de configurações:
+
+![image](https://github.com/user-attachments/assets/3b9df9b5-c4ed-4500-8be0-9f5bb17d7c79)
+
+* Exemplo de notificação:
 
 ![image](https://github.com/user-attachments/assets/f7f8f74b-a06b-4bb6-b163-2353e4eb84e3)
 
