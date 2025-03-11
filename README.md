@@ -1,5 +1,5 @@
 <p align="center" dir=auto>
-  <img src="https://github.com/user-attachments/assets/cc2bd90e-ef04-4273-bd71-d93d84268ea0" width=120>
+  <img src="https://cdn.discordapp.com/attachments/1302022249389363210/1348856232668172410/17f4e95953d894b83853814e87e28833.png?ex=67d0fbc2&is=67cfaa42&hm=1b1ecc6393be6428d9b974686ce534b9dec3902674fa90de22fe088e44467414&" width=120>
 </p>
 <div class="markdown-heading">
   <h3 class="heading-element" align="center" dir=auto>ISAC</h3>
