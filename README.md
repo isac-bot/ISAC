@@ -17,7 +17,7 @@
 
 * Exemplo de um evento interativo:
 
-![image](https://github.com/user-attachments/assets/562e6fed-0456-46da-8b27-2d29449aa11b)
+![image](https://github.com/user-attachments/assets/7c76f7d2-5fa6-4145-a5c9-146583e4e08a)
 
 * Formulário para criação de eventos:
 
