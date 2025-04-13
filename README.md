@@ -27,7 +27,7 @@
 
 * Painel de configurações:
 
-![image](https://github.com/user-attachments/assets/3b9df9b5-c4ed-4500-8be0-9f5bb17d7c79)
+![image](https://github.com/user-attachments/assets/7651d8bb-696a-45e8-b9b0-36a366c2c6e0)
 
 * Exemplo de notificação:
 
