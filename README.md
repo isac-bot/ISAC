@@ -21,7 +21,7 @@
 
 * Formulário para criação de eventos:
 
-![image](https://github.com/user-attachments/assets/2b130c89-4ea8-42c0-9350-d6726dd167d2)
+![image](https://github.com/user-attachments/assets/87ad3b3b-1962-4d66-9256-ed7fdd990ac8)
 
 ### Notificações de lives da Twitch:
 
