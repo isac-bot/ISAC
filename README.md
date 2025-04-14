@@ -31,7 +31,7 @@
 
 * Exemplo de notificação:
 
-![image](https://github.com/user-attachments/assets/f7f8f74b-a06b-4bb6-b163-2353e4eb84e3)
+![Captura de tela de 2025-04-13 22-59-44](https://github.com/user-attachments/assets/d6d49f1d-f44f-493a-b9de-2fcc93f21a51)
 
 ### Notificar entrada e saída de membros:
 
