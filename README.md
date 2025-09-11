@@ -21,7 +21,7 @@
 
 * Formulário para criação de eventos:
 
-![image](https://github.com/user-attachments/assets/87ad3b3b-1962-4d66-9256-ed7fdd990ac8)
+<img width="473" height="716" alt="image" src="https://github.com/user-attachments/assets/90c3720c-bcfc-44ec-a82a-474df7b8e2b3" />
 
 ### Notificações de lives da Twitch:
 
@@ -69,7 +69,6 @@
 > * **/ping** : Veja o ping da aplicação.
 > * **/post** : Crie uma postagem.
 > * **/saida** : Abre o painel de configurações para notificações de membros que saíram do servidor.
-> * **/timezone** : Zonas de tempo disponíveis para o comando /evento.
 > * **/tirar_castigo {membro}** : Retira o castigo do membro.
 > * **/twitch** : Abre o painel de configurações para notificações de lives da Twitch.
 
