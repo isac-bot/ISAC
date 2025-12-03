@@ -1,5 +1,5 @@
 <p align="center" dir=auto>
-  <img src="https://cdn.discordapp.com/avatars/1136689149601124383/17f4e95953d894b83853814e87e28833.png?size=1024" width=120>
+  <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/69fd42c6-7b00-42cf-a786-3559ac3846be" />
 </p>
 <div class="markdown-heading">
   <h3 class="heading-element" align="center" dir=auto>ISAC</h3>
@@ -65,7 +65,6 @@
 > * **/id_canal_voz {canal}** : Mostra o ID do canal de voz do servidor.
 > * **/id_cargo {cargo}** : Mostra o ID do cargo.
 > * **/id_membro {membro}** : Mostra o ID do membro.
-> * **/info_servidor** : Exibe informações relacionadas ao servidor.
 > * **/ping** : Veja o ping da aplicação.
 > * **/post** : Crie uma postagem.
 > * **/saida** : Abre o painel de configurações para notificações de membros que saíram do servidor.
