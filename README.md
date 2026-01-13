@@ -56,7 +56,6 @@
 > * **/banir {membro}** : Bane o membro do servidor.
 > * **/castigar {membro} {tempo}** : Coloque o membro de castigo pelo tempo determinado em segundos.
 > * **/convite {tempo!}** : Crie um convite para o servidor, podendo definir o tempo de duração em segundos. Convite de uso único.
-> * **/almanax {data!}** : Mostre o item a ser ofertado no Santuário Almanax do jogo Dofus.
 > * **/entrada** : Abre o painel de configurações para notificações de novos membros no servidor.
 > * **/evento** : Crie um evento no servidor.
 > * **/excluir_convites** : Exclui todos os convites ativos no servidor.
