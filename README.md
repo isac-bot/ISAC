@@ -108,24 +108,42 @@ O desenvolvedor do Bot reserva-se o direito de modificar estes Termos de Uso a q
 
 O desenvolvedor do Bot reserva-se o direito de encerrar ou suspender o acesso ao Bot para qualquer usuário ou servidor que viole estes Termos de Uso ou que utilize o Bot de forma inadequada.
 
-# Política de Privacidade:
+# Política de Privacidade
 
-O ISAC foi desenvolvido com o compromisso de respeitar a privacidade dos usuários. Abaixo, explico como são lidados as informações coletadas:
+Ao utilizar o **ISAC**, você concorda com esta Política de Privacidade. Nosso compromisso é garantir a transparência e a segurança das informações tratadas pelo software.
 
-### Armazenamento de Mensagens:
+### 1. Coleta e Tratamento de Dados
+O ISAC coleta e armazena dados estritamente necessários para a execução de suas funcionalidades:
+* **Informações do Servidor:** Armazenamos o ID e o nome do servidor para identificação e gerenciamento de configurações.
+* **Configurações de Canais e Cargos:** Registramos IDs de canais (boas-vindas, saída, Twitch) e IDs de cargos para automação de mensagens e atribuições.
+* **Conteúdo Personalizado:** Armazenamos títulos, textos e URLs de imagens fornecidos para a customização das mensagens de entrada e saída.
+* **Integração com Twitch:** Para o sistema de notificações, processamos IDs de usuários da Twitch e identificadores de lives.
+* **Segurança e Moderação:** Registramos IDs de administradores e nomes de usuário para controle de servidores banidos e motivos de exclusão.
+* **Suporte e Diagnóstico:** Registramos exceções e erros técnicos, que podem incluir o comando utilizado, o ID do servidor e o ID do autor do comando, visando a resolução de problemas e melhoria da estabilidade.
+* **Conteúdo de Mensagens:** O bot **não armazena** o conteúdo das mensagens trocadas entre membros no servidor. Somente as interações diretas com os comandos do bot e configurações enviadas são processadas.
 
-O ISAC **não** armazena o conteúdo das mensagens enviadas pelos membros do servidor. Isso significa que as conversas, textos ou qualquer outro conteúdo gerado pelos usuários não são coletados, salvos ou compartilhados.
+### 2. Segurança da Informação
+Implementamos medidas técnicas e administrativas para proteger seus dados contra acessos não autorizados:
+* **Ambiente Controlado:** As informações recebidas são armazenadas em ambiente seguro.
+* **Acesso Restrito:** O acesso aos dados é limitado a processos necessários para as finalidades descritas.
+* **Monitoramento:** Realizamos o monitoramento contínuo para prevenir e detectar ações danosas.
 
-O bot apenas armazena as mensagens que ele mesmo envia, como respostas a comandos ou interações automáticas, para garantir o funcionamento adequado.
+### 3. Compartilhamento de Dados
+**Jamais comercializamos dados pessoais**. O compartilhamento de informações ocorre apenas nas seguintes condições:
+* **Obrigação Legal:** Para cumprimento de ordens judiciais ou solicitações de autoridades administrativas.
+* **Prestadores de Serviço:** Com parceiros que auxiliam na manutenção da infraestrutura, sempre sob o mesmo nível de segurança e privacidade.
 
-### Registro de Interações:
+### 4. Direitos do Titular
+Você, como usuário, possui os seguintes direitos garantidos por lei:
+* Confirmar a existência do tratamento e acessar seus dados pessoais.
+* Corrigir dados incompletos, inexatos ou desatualizados.
+* Solicitar a eliminação de dados tratados com seu consentimento ou desnecessários.
+* Revogar o consentimento a qualquer momento.
 
-O ISAC pode registrar informações sobre quem utiliza seus comandos ou interage com ele, como IDs de usuário, IDs do servidor e horários de interação. Esses dados são utilizados exclusivamente para fins de funcionalidade, análise de uso e melhoria do bot.
+### 5. Retenção e Exclusão de Dados
+Os dados são mantidos apenas pelo tempo necessário para atingir as finalidades descritas ou conforme exigência legal. A pedido do titular, eliminaremos os dados pessoais, exceto aqueles necessários para cumprimento de obrigações regulatórias.
 
-Esses registros não incluem o conteúdo das mensagens dos usuários e são tratados com total confidencialidade.
-
-### Uso dos Dados:
-
-Os dados coletados são utilizados apenas para o funcionamento do bot e não são compartilhados com terceiros, exceto quando exigido por lei ou para cumprir com obrigações legais.
-
-Ao utilizar o ISAC, você concorda com esta política de privacidade.
+### 6. Contato e Responsável
+Para exercer seus direitos ou tirar dúvidas, entre em contato com o desenvolvedor responsável:
+* **Desenvolvedor:** Humberto Silva.
+* **E-mail de Contato:** isac.discordbot@gmail.com.
